@@ -44,7 +44,7 @@ a:hover img {
 }
 
 
-a:hover <li><a href=""><img src="anchovies.jpg" id="img1" alt=""></a></li>, a:focus <li><a href=""><img src="anchovies.jpg" id="img1" alt=""></a></li>  {
+a:hover #img1, a:focus #img1
 	transform: scale(1.5) rotate(-3deg);
 }
 
