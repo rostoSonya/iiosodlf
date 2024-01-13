@@ -1,7 +1,4 @@
-# 33
-3дддддддддддддддддд
-<a href="https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS">рисование в colab<a/>
-<!DOCTYPE HTML>
+
 
 <html>
 
@@ -47,7 +44,7 @@ a:hover img {
 }
 
 
-a:hover #img1, a:focus #img1  {
+a:hover <li><a href=""><img src="anchovies.jpg" id="img1" alt=""></a></li>, a:focus <li><a href=""><img src="anchovies.jpg" id="img1" alt=""></a></li>  {
 	transform: scale(1.5) rotate(-3deg);
 }
 
