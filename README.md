@@ -49,15 +49,15 @@ a:hover #img1
 }
 
 a:hover #img2, a:focus #img2  {
-	transform: scale(1.5) rotate(5deg);
+	transform: scale(3.0 rotate(5deg);
 }
 
 a:hover #img3, a:focus #img3  {
-	transform: scale(1.5) rotate(-7deg);
+	transform: scale(3.0) rotate(-7deg);
 }
 
 a:hover #img4, a:focus #img4  {
-	transform: scale(1.5) rotate(2deg);
+	transform: scale(3.0) rotate(2deg);
 }
 
 
@@ -81,15 +81,6 @@ a:hover #img4, a:focus #img4  {
 
   <li><a href=""><img src="seadragon.jpg" id="img4"alt=""></a></li>
 </ul>
-<u1>
-<li><a href=""><img src="anchovies.jpg" id="img1" alt ""></a</li>
-
-  <li><a href=""><img src="jellyfish1.jpg" id="img2" alt=""></a></li>
-
-  <li><a href=""><img src="bluejellyfish.jpg" id="img3" alt=""></a></li>
-
-  <li><a href=""><img src="seadragon.jpg" id="img4"alt=""></a></li>
-  </u1>
 
 
 </body>
