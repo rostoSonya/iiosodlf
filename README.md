@@ -43,9 +43,9 @@ a:hover img {
 	box-shadow: 6px 6px 6px rgba(0,0,0,.3);
 }
 
-
-a:hover #img1, a:focus #img1
-	transform: scale(1.5) rotate(-3deg);
+a:hover #img1
+ { <a href=""><img src="anchovies.jpg" id="img1" alt="">
+</a>
 }
 
 a:hover #img2, a:focus #img2  {
