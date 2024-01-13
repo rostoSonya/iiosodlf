@@ -44,8 +44,8 @@ a:hover img {
 }
 
 a:hover #img1
- { <a href=""><img src="anchovies.jpg" id="img1" alt="">
-</a>
+ box-shadow: 6px 6px 6px rgba(0,0,0,.3);
+
 }
 
 a:hover #img2, a:focus #img2  {
