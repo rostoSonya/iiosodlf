@@ -73,7 +73,7 @@ a:hover #img4, a:focus #img4  {
 
 <ul>
 
-  <li><a href=""><img src="jellyfish1.jpg" id="img1" alt ""></a</li>
+  <li><a href=""><img src="anchovies.jpg" id="img1" alt ""></a</li>
 
   <li><a href=""><img src="jellyfish1.jpg" id="img2" alt=""></a></li>
 
